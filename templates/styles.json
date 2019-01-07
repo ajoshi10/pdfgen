@@ -1,0 +1,9 @@
+{
+    "pageheader":{
+        "margin":[30,20,30,20]
+    },
+    "pagefooter":{
+        "margin":[30,3,30,3],
+        "fontSize" :7 
+    }
+}
